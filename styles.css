@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+	font-size: 30px;
+	font-family: Courier;
+	color: white;
+	background-color: black;
+}
+
+img {
+	height: 700px;
+	margin-top: 150px;
+}
